@@ -11,9 +11,8 @@ This repository serves as a personal archive for practicing C++ algorithms. It i
 
 ## Progress Tracking
 - [x] Sorting Algorithms (files 02, 04, 11, 12)
-- [x] Standard Template Library (files 03, 05, 08, 09, 10)
+- [x] Standard Template Library (files 03, 05, 08, 09, 10，13)
 - [x] Mathematical and Stream Operations (files 06, 07)
-- [ ] Work in Progress (13-map_count.cpp)
 
 ## Compilation and Execution
 
@@ -21,6 +20,7 @@ This repository serves as a personal archive for practicing C++ algorithms. It i
 
 ```bash
 g++ filename.cpp -o filename
+g++ -std=c++17 filename.cpp -o filename
 ```
 
 2. Execute:
